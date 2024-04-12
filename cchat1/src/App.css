@@ -2,12 +2,9 @@ body{
     margin: 0;
 }
 
-
 @media (max-aspect-ratio: 7/10) {
 
     .JoinPage{
-       
-      
         display: flex;
         justify-content: center;
         align-items: flex-start !important;
@@ -33,15 +30,13 @@ body{
     #joinInput{
         width: 65vw !important;
         padding: 4vw !important;
-       
-        font-size: 5vw !important;
+       font-size: 5vw !important;
         margin:5vw !important;
        
     }
     .joinbtn{
         width: 65vw !important;
         padding: 4vw !important;
-        
         font-size: 5vw !important;
       
     }
@@ -73,24 +68,18 @@ body{
         height: 80% !important;
        }
 
-       .inputBox{
-    
+    .inputBox{
         height: 10% !important;
        
     }
     #chatInput{
-   
-        padding: 4vw !important;
+         padding: 4vw !important;
         font-size: 4vw !important;
     }
     .messageBox{
-   
-       
         padding: 3vw !important;
         margin: 3vw !important;
         border-radius: 1.5vw !important;
         font-size: 3.7vw !important;
     }
-
-
-  }
+}
